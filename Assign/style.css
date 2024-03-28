@@ -1,0 +1,48 @@
+.a{
+    border: 2px solid rebeccapurple;
+    width: 25%;
+    height: fit-content;
+    color: green;
+    display: inline-block;
+    border-radius: 15px;
+    margin-left: 20px;
+    /* padding: 20px; */
+    text-align: center;
+    word-spacing: 20px;
+    text-indent: 20px;
+}
+.b{
+    border: 2px solid black;
+    width: 25%;
+    height:fit-content;
+    color: red;
+    display: inline-block;
+    border-radius: 15px;
+    gap: 2%;
+    margin-left: 30px;
+    /* padding: 20px; */
+    text-shadow: 5px 3px red;
+    word-spacing: 15px;
+}
+.c{
+    border: 2px solid blueviolet;
+    width: 25%;
+    height: fit-content;
+    color: brown;
+    display: inline-block;
+    border-radius: 15px;
+    margin-left: 40px;
+    /* padding: 20px; */
+    word-spacing: 20px;
+}
+/* .im{
+ padding: 40px;
+ border-radius: 50px;
+} */
+div .im{
+    opacity: 0.2;
+}
+.im:hover{
+    opacity: 1.0;
+    
+}

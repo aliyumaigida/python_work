@@ -1,0 +1,1 @@
+this is the check if a file exists and read from it else create the file and write to it.
